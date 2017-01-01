@@ -1,5 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
+import { MdToolbarModule, MdIconModule, MdButtonModule } from '@angular/material';
 
+@Input()
 @Component({
   selector: 'navbar',
   templateUrl: './navbar.component.html',

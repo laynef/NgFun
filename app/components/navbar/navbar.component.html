@@ -1,5 +1,9 @@
-<md-nav-bar md-selected-nav-item="currentNavItem" nav-bar-aria-label="navigation links">
-  <md-nav-item md-nav-click="goto('page1')" name="page1">Page One</md-nav-item>
-  <md-nav-item md-nav-click="goto('page2')" name="page2">Page Two</md-nav-item>
-  <md-nav-item md-nav-click="goto('page3')" name="page3">Page Three</md-nav-item>
-</md-nav-bar>
+<md-toolbar color="warm">
+    <button md-icon-button (click)="sidenav.open()">
+      <md-icon  class="example-icon">menu</md-icon>
+    </button>
+    <span class="example-spacer"></span>
+    <span>My Lady</span>
+    <span class="example-spacer"></span>
+    <button md-raised-button>Login</button>
+</md-toolbar>

@@ -5,12 +5,14 @@ import { HttpModule } from '@angular/http';
 import { MaterialModule } from '@angular/material';
 
 import { RootComponent } from './root.component';
+import { NavbarComponent } from '../navbar/navbar.component';
 
 import 'hammerjs';
 
 @NgModule({
   declarations: [
-    RootComponent
+    RootComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
