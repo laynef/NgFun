@@ -74793,13 +74793,13 @@ webpackJsonp([0],[
 /* 65 */
 /***/ function(module, exports) {
 
-	module.exports = "<navbar></navbar>"
+	module.exports = "<div class=\"full-div\">\n    <md-toolbar color=\"warm\">\n        <button md-icon-button (click)=\"sidenav.open()\">\n        <md-icon  class=\"example-icon\">menu</md-icon>\n        </button>\n        <span class=\"example-spacer\"></span>\n        <span>My Lady</span>\n        <span class=\"example-spacer\"></span>\n        <button md-raised-button>Login</button>\n    </md-toolbar>\n\n    <md-sidenav-container class=\"example-container\">\n        <md-sidenav #sidenav class=\"example-sidenav\">\n            Jolly good!\n        </md-sidenav>\n    </md-sidenav-container>\n</div>"
 
 /***/ },
 /* 66 */
 /***/ function(module, exports) {
 
-	module.exports = "/* Delete this H1 */\nh1 {\n    text-align: center;\n    color: white;\n}\n/* Have fun styling! */\n\n"
+	module.exports = ".example-icon {\n  padding: 0 14px;\n  margin: 0 auto;\n}\n\n.example-spacer {\n  flex: 0.48 0.48 auto;\n}\n\n.example-container {\n  width: 100%; \n  height: 100%;\n  background-color: transparent;\n}\n\n.full-div {\n    position: absolute;\n    top: 0;\n    left: 0;\n      width: 100%; \n  height: 100%;\n}\n\n.example-sidenav {\n  padding: 20px;\n  width: 15%;\n}"
 
 /***/ },
 /* 67 */
@@ -74824,7 +74824,6 @@ webpackJsonp([0],[
 	    return NavbarComponent;
 	}());
 	NavbarComponent = __decorate([
-	    core_1.Input(),
 	    core_1.Component({
 	        selector: 'navbar',
 	        template: __webpack_require__(68),
@@ -74839,13 +74838,13 @@ webpackJsonp([0],[
 /* 68 */
 /***/ function(module, exports) {
 
-	module.exports = "<md-toolbar color=\"warm\">\n    <button md-icon-button (click)=\"sidenav.open()\">\n      <md-icon  class=\"example-icon\">menu</md-icon>\n    </button>\n    <span class=\"example-spacer\"></span>\n    <span>My Lady</span>\n    <span class=\"example-spacer\"></span>\n    <button md-raised-button>Login</button>\n</md-toolbar>"
+	module.exports = ""
 
 /***/ },
 /* 69 */
 /***/ function(module, exports) {
 
-	module.exports = ".example-icon {\n  padding: 0 14px;\n  margin: 0 auto;\n}\n\n.example-spacer {\n  flex: 0.48 0.48 auto;\n}\n"
+	module.exports = ""
 
 /***/ },
 /* 70 */
