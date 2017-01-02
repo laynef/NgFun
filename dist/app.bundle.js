@@ -1,5 +1,6 @@
-webpackJsonp([0],[
-/* 0 */
+webpackJsonp([0],{
+
+/***/ 0:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -9,7 +10,8 @@ webpackJsonp([0],[
 
 
 /***/ },
-/* 1 */
+
+/***/ 1:
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {/**
@@ -183,7 +185,8 @@ webpackJsonp([0],[
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ },
-/* 2 */
+
+/***/ 2:
 /***/ function(module, exports, __webpack_require__) {
 
 	/**
@@ -28286,7 +28289,8 @@ webpackJsonp([0],[
 	}));
 
 /***/ },
-/* 3 */
+
+/***/ 3:
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {/**
@@ -41446,7 +41450,8 @@ webpackJsonp([0],[
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ },
-/* 4 */
+
+/***/ 4:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -41611,7 +41616,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=Subject.js.map
 
 /***/ },
-/* 5 */
+
+/***/ 5:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -41745,7 +41751,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=Observable.js.map
 
 /***/ },
-/* 6 */
+
+/***/ 6:
 /***/ function(module, exports) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {"use strict";
@@ -41764,7 +41771,8 @@ webpackJsonp([0],[
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ },
-/* 7 */
+
+/***/ 7:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -41789,7 +41797,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=toSubscriber.js.map
 
 /***/ },
-/* 8 */
+
+/***/ 8:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -42043,7 +42052,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=Subscriber.js.map
 
 /***/ },
-/* 9 */
+
+/***/ 9:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -42054,7 +42064,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=isFunction.js.map
 
 /***/ },
-/* 10 */
+
+/***/ 10:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -42212,7 +42223,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=Subscription.js.map
 
 /***/ },
-/* 11 */
+
+/***/ 11:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -42220,7 +42232,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=isArray.js.map
 
 /***/ },
-/* 12 */
+
+/***/ 12:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -42231,7 +42244,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=isObject.js.map
 
 /***/ },
-/* 13 */
+
+/***/ 13:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -42255,7 +42269,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=tryCatch.js.map
 
 /***/ },
-/* 14 */
+
+/***/ 14:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -42264,7 +42279,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=errorObject.js.map
 
 /***/ },
-/* 15 */
+
+/***/ 15:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -42294,7 +42310,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=UnsubscriptionError.js.map
 
 /***/ },
-/* 16 */
+
+/***/ 16:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -42307,7 +42324,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=Observer.js.map
 
 /***/ },
-/* 17 */
+
+/***/ 17:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -42318,7 +42336,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=rxSubscriber.js.map
 
 /***/ },
-/* 18 */
+
+/***/ 18:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -42345,7 +42364,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=observable.js.map
 
 /***/ },
-/* 19 */
+
+/***/ 19:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -42377,7 +42397,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=ObjectUnsubscribedError.js.map
 
 /***/ },
-/* 20 */
+
+/***/ 20:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -42422,7 +42443,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=SubjectSubscription.js.map
 
 /***/ },
-/* 21 */
+
+/***/ 21:
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {/**
@@ -47111,7 +47133,8 @@ webpackJsonp([0],[
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ },
-/* 22 */
+
+/***/ 22:
 /***/ function(module, exports, __webpack_require__) {
 
 	/* WEBPACK VAR INJECTION */(function(global) {/**
@@ -50632,7 +50655,8 @@ webpackJsonp([0],[
 	/* WEBPACK VAR INJECTION */}.call(exports, (function() { return this; }())))
 
 /***/ },
-/* 23 */
+
+/***/ 23:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -50651,8 +50675,8 @@ webpackJsonp([0],[
 	var http_1 = __webpack_require__(28);
 	var material_1 = __webpack_require__(29);
 	var root_component_1 = __webpack_require__(64);
-	var navbar_component_1 = __webpack_require__(67);
-	__webpack_require__(70);
+	var home_component_1 = __webpack_require__(328);
+	__webpack_require__(67);
 	var RootModule = (function () {
 	    function RootModule() {
 	    }
@@ -50662,12 +50686,13 @@ webpackJsonp([0],[
 	    core_1.NgModule({
 	        declarations: [
 	            root_component_1.RootComponent,
-	            navbar_component_1.NavbarComponent
+	            home_component_1.HomeComponent
 	        ],
 	        imports: [
 	            platform_browser_1.BrowserModule,
 	            forms_1.FormsModule,
 	            http_1.HttpModule,
+	            http_1.JsonpModule,
 	            material_1.MaterialModule.forRoot()
 	        ],
 	        providers: [],
@@ -50679,7 +50704,8 @@ webpackJsonp([0],[
 
 
 /***/ },
-/* 24 */
+
+/***/ 24:
 /***/ function(module, exports, __webpack_require__) {
 
 	/**
@@ -56449,7 +56475,8 @@ webpackJsonp([0],[
 	}));
 
 /***/ },
-/* 25 */
+
+/***/ 25:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -56483,7 +56510,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=toPromise.js.map
 
 /***/ },
-/* 26 */
+
+/***/ 26:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -56492,7 +56520,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=fromPromise.js.map
 
 /***/ },
-/* 27 */
+
+/***/ 27:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -56618,7 +56647,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=PromiseObservable.js.map
 
 /***/ },
-/* 28 */
+
+/***/ 28:
 /***/ function(module, exports, __webpack_require__) {
 
 	/**
@@ -58651,7 +58681,8 @@ webpackJsonp([0],[
 	}));
 
 /***/ },
-/* 29 */
+
+/***/ 29:
 /***/ function(module, exports, __webpack_require__) {
 
 	/**
@@ -72996,7 +73027,8 @@ webpackJsonp([0],[
 
 
 /***/ },
-/* 30 */
+
+/***/ 30:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73006,7 +73038,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=fromEvent.js.map
 
 /***/ },
-/* 31 */
+
+/***/ 31:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73015,7 +73048,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=fromEvent.js.map
 
 /***/ },
-/* 32 */
+
+/***/ 32:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73160,7 +73194,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=FromEventObservable.js.map
 
 /***/ },
-/* 33 */
+
+/***/ 33:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73170,7 +73205,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=forkJoin.js.map
 
 /***/ },
-/* 34 */
+
+/***/ 34:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73179,7 +73215,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=forkJoin.js.map
 
 /***/ },
-/* 35 */
+
+/***/ 35:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73296,7 +73333,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=ForkJoinObservable.js.map
 
 /***/ },
-/* 36 */
+
+/***/ 36:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73382,7 +73420,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=EmptyObservable.js.map
 
 /***/ },
-/* 37 */
+
+/***/ 37:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73465,7 +73504,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=subscribeToResult.js.map
 
 /***/ },
-/* 38 */
+
+/***/ 38:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -73476,7 +73516,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=isPromise.js.map
 
 /***/ },
-/* 39 */
+
+/***/ 39:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73515,7 +73556,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=iterator.js.map
 
 /***/ },
-/* 40 */
+
+/***/ 40:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73556,7 +73598,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=InnerSubscriber.js.map
 
 /***/ },
-/* 41 */
+
+/***/ 41:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73591,7 +73634,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=OuterSubscriber.js.map
 
 /***/ },
-/* 42 */
+
+/***/ 42:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73601,7 +73645,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=of.js.map
 
 /***/ },
-/* 43 */
+
+/***/ 43:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73610,7 +73655,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=of.js.map
 
 /***/ },
-/* 44 */
+
+/***/ 44:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73737,7 +73783,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=ArrayObservable.js.map
 
 /***/ },
-/* 45 */
+
+/***/ 45:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73800,7 +73847,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=ScalarObservable.js.map
 
 /***/ },
-/* 46 */
+
+/***/ 46:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -73811,7 +73859,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=isScheduler.js.map
 
 /***/ },
-/* 47 */
+
+/***/ 47:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73821,7 +73870,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=map.js.map
 
 /***/ },
-/* 48 */
+
+/***/ 48:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73913,7 +73963,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=map.js.map
 
 /***/ },
-/* 49 */
+
+/***/ 49:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -73923,7 +73974,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=filter.js.map
 
 /***/ },
-/* 50 */
+
+/***/ 50:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74021,7 +74073,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=filter.js.map
 
 /***/ },
-/* 51 */
+
+/***/ 51:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74032,7 +74085,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=do.js.map
 
 /***/ },
-/* 52 */
+
+/***/ 52:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74150,7 +74204,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=do.js.map
 
 /***/ },
-/* 53 */
+
+/***/ 53:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74160,7 +74215,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=share.js.map
 
 /***/ },
-/* 54 */
+
+/***/ 54:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74189,7 +74245,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=share.js.map
 
 /***/ },
-/* 55 */
+
+/***/ 55:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74251,7 +74308,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=multicast.js.map
 
 /***/ },
-/* 56 */
+
+/***/ 56:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74418,7 +74476,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=ConnectableObservable.js.map
 
 /***/ },
-/* 57 */
+
+/***/ 57:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74429,7 +74488,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=finally.js.map
 
 /***/ },
-/* 58 */
+
+/***/ 58:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74477,7 +74537,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=finally.js.map
 
 /***/ },
-/* 59 */
+
+/***/ 59:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74488,7 +74549,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=catch.js.map
 
 /***/ },
-/* 60 */
+
+/***/ 60:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74559,7 +74621,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=catch.js.map
 
 /***/ },
-/* 61 */
+
+/***/ 61:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74569,7 +74632,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=first.js.map
 
 /***/ },
-/* 62 */
+
+/***/ 62:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74726,7 +74790,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=first.js.map
 
 /***/ },
-/* 63 */
+
+/***/ 63:
 /***/ function(module, exports) {
 
 	"use strict";
@@ -74759,7 +74824,8 @@ webpackJsonp([0],[
 	//# sourceMappingURL=EmptyError.js.map
 
 /***/ },
-/* 64 */
+
+/***/ 64:
 /***/ function(module, exports, __webpack_require__) {
 
 	"use strict";
@@ -74790,64 +74856,22 @@ webpackJsonp([0],[
 
 
 /***/ },
-/* 65 */
+
+/***/ 65:
 /***/ function(module, exports) {
 
-	module.exports = "<div class=\"full-div\">\n    <md-toolbar color=\"warm\">\n        <button md-icon-button (click)=\"sidenav.open()\">\n        <md-icon  class=\"example-icon\">menu</md-icon>\n        </button>\n        <span class=\"example-spacer\"></span>\n        <span>My Lady</span>\n        <span class=\"example-spacer\"></span>\n        <button md-raised-button>Login</button>\n    </md-toolbar>\n\n    <md-sidenav-container class=\"example-container\">\n        <md-sidenav #sidenav class=\"example-sidenav\">\n            Jolly good!\n        </md-sidenav>\n    </md-sidenav-container>\n</div>"
+	module.exports = "<div class=\"full-div\">\n    <md-toolbar color=\"primary\">\n        <button md-icon-button (click)=\"sidenav.open()\">\n        <md-icon  class=\"example-icon\">menu</md-icon>\n        </button>\n        <span class=\"example-spacer\"></span>\n        <span>My Lady</span>\n        <span class=\"example-spacer\"></span>\n        <button md-raised-button color=\"accent\">Login</button>\n    </md-toolbar>\n\n    <md-sidenav-container class=\"example-container\">\n        <md-sidenav #sidenav class=\"example-sidenav\">\n            Take if off!\n        </md-sidenav>\n        \n        <home></home>\n    \n    </md-sidenav-container>\n\n</div>"
 
 /***/ },
-/* 66 */
+
+/***/ 66:
 /***/ function(module, exports) {
 
 	module.exports = ".example-icon {\n  padding: 0 14px;\n  margin: 0 auto;\n}\n\n.example-spacer {\n  flex: 0.48 0.48 auto;\n}\n\n.example-container {\n  width: 100%; \n  height: 100%;\n  background-color: transparent;\n}\n\n.full-div {\n    position: absolute;\n    top: 0;\n    left: 0;\n      width: 100%; \n  height: 100%;\n}\n\n.example-sidenav {\n  padding: 20px;\n  width: 15%;\n}"
 
 /***/ },
-/* 67 */
-/***/ function(module, exports, __webpack_require__) {
 
-	"use strict";
-	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
-	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
-	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
-	    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
-	    return c > 3 && r && Object.defineProperty(target, key, r), r;
-	};
-	var __metadata = (this && this.__metadata) || function (k, v) {
-	    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
-	};
-	var core_1 = __webpack_require__(3);
-	var NavbarComponent = (function () {
-	    function NavbarComponent() {
-	    }
-	    NavbarComponent.prototype.ngOnInit = function () {
-	    };
-	    return NavbarComponent;
-	}());
-	NavbarComponent = __decorate([
-	    core_1.Component({
-	        selector: 'navbar',
-	        template: __webpack_require__(68),
-	        styles: [__webpack_require__(69)]
-	    }),
-	    __metadata("design:paramtypes", [])
-	], NavbarComponent);
-	exports.NavbarComponent = NavbarComponent;
-
-
-/***/ },
-/* 68 */
-/***/ function(module, exports) {
-
-	module.exports = ""
-
-/***/ },
-/* 69 */
-/***/ function(module, exports) {
-
-	module.exports = ""
-
-/***/ },
-/* 70 */
+/***/ 67:
 /***/ function(module, exports, __webpack_require__) {
 
 	var __WEBPACK_AMD_DEFINE_RESULT__;/*! Hammer.JS - v2.0.7 - 2016-04-22
@@ -77495,5 +77519,69 @@ webpackJsonp([0],[
 	})(window, document, 'Hammer');
 
 
+/***/ },
+
+/***/ 328:
+/***/ function(module, exports, __webpack_require__) {
+
+	"use strict";
+	var __decorate = (this && this.__decorate) || function (decorators, target, key, desc) {
+	    var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
+	    if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
+	    else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
+	    return c > 3 && r && Object.defineProperty(target, key, r), r;
+	};
+	var __metadata = (this && this.__metadata) || function (k, v) {
+	    if (typeof Reflect === "object" && typeof Reflect.metadata === "function") return Reflect.metadata(k, v);
+	};
+	var core_1 = __webpack_require__(3);
+	// import { Photos } from '../../types/photos';
+	// import { GalleryService } from '../../services/gallery.service';
+	var HomeComponent = (function () {
+	    function HomeComponent() {
+	        this.imageUrl = 'http://i.imgur.com/De1Oy5y.jpg';
+	        // getPhotos() {
+	        //   this.GalleryService.getPhoto()
+	        //                                    .subscribe(
+	        //                                      resp => this.photos = resp,
+	        //                                      error => this.errorMessage = <any>error
+	        //                                    );
+	        // }
+	    }
+	    // photos: Photos;
+	    // mode = 'Observable';
+	    // errorMessage: string;
+	    // constructor(private GalleryService: GalleryService) { }
+	    HomeComponent.prototype.ngOnInit = function () {
+	        // this.getPhotos();
+	    };
+	    return HomeComponent;
+	}());
+	HomeComponent = __decorate([
+	    core_1.Component({
+	        selector: 'home',
+	        template: __webpack_require__(329),
+	        styles: [__webpack_require__(330)]
+	    }),
+	    __metadata("design:paramtypes", [])
+	], HomeComponent);
+	exports.HomeComponent = HomeComponent;
+
+
+/***/ },
+
+/***/ 329:
+/***/ function(module, exports) {
+
+	module.exports = "<div class=\"card-div\">\n  <md-card class=\"example-card\">\n    <md-card-header>\n      <div md-card-avatar class=\"example-header-image\"></div>\n      <md-card-title>My Wifey</md-card-title>\n      <md-card-subtitle>On the real</md-card-subtitle>\n    </md-card-header>\n    <img md-card-image src={{imageUrl}}>\n    <md-card-content>\n      <p>\n        Drop dead legs\n      </p>\n    </md-card-content>\n    <md-card-actions>\n      <button md-button>LIKE</button>\n      <button md-button>SHARE</button>\n    </md-card-actions>\n  </md-card>\n</div>"
+
+/***/ },
+
+/***/ 330:
+/***/ function(module, exports) {
+
+	module.exports = ".example-card {\n  width: 600px;\n  text-align: center;\n  margin: 0 auto;\n}\n\n.example-header-image {\n  background-size: cover;\n}\n\n.card-div {\n    padding: 8% 0;\n}"
+
 /***/ }
-]);
+
+});

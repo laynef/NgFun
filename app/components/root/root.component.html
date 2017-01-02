@@ -1,17 +1,21 @@
 <div class="full-div">
-    <md-toolbar color="warm">
+    <md-toolbar color="primary">
         <button md-icon-button (click)="sidenav.open()">
         <md-icon  class="example-icon">menu</md-icon>
         </button>
         <span class="example-spacer"></span>
         <span>My Lady</span>
         <span class="example-spacer"></span>
-        <button md-raised-button>Login</button>
+        <button md-raised-button color="accent">Login</button>
     </md-toolbar>
 
     <md-sidenav-container class="example-container">
         <md-sidenav #sidenav class="example-sidenav">
-            Jolly good!
+            Take if off!
         </md-sidenav>
+        
+        <home></home>
+    
     </md-sidenav-container>
+
 </div>

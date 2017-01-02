@@ -1,13 +1,5 @@
 /* Delete This HTML Style */
 
-html { 
-  background: url('http://i.imgur.com/De1Oy5y.jpg') no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -17,4 +9,5 @@ body {
   top: 0;
   left: 0;
   background-size: cover;
+  background-color: #B0BEC5
 }
